@@ -19,7 +19,7 @@ constructor(props){
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>
-    
+        ouin ouin je veux pas epic game 
       <Chat onSend = {this.handleSend}  display = {this.state.chat}/>
       <Chat onSend = {this.handleSend}  display = {this.state.chat} />
     </div>
